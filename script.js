@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "vocẽ acha importante a s/n continuar treinando",
-                afirmacao: "não precisa continuar treinando "
+                afirmacao: "é necessário para se tornar uma guereira  "
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                texto: "sofrer buling",
+                afirmacao: "não precisa continuar treinando"
             }
         ]
     },
