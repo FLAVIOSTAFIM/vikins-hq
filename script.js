@@ -13,8 +13,8 @@ const perguntas = [
                 afirmacao: "é necessário para se tornar uma guereira  "
             },
             {
-                texto: "sofrer bulling",
-                afirmacao: "não precisa continuar treinando"
+                texto: "não precisa continuar treinando",
+                afirmacao: "sofrer bulling"
             }
         ]
     },
