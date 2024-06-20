@@ -9,8 +9,8 @@ const perguntas = [
         enunciado: "reza a lenda que muito tempo atrás, uma viking chamada s/n era a mais forte dentre qualquer homem de sua tribo,treinando 24h por dia todos os dias ,será que ela vai continuar treinando?  ",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                texto: "vocẽ acha importante a s/n continuar treinando",
+                afirmacao: "não precisa continuar treinando "
             },
             {
                 texto: "Isso é maravilhoso!",
