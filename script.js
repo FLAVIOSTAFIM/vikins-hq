@@ -32,7 +32,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "",
+        enunciado: "h",
         alternativas: [
             {
                 texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
