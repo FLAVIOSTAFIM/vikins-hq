@@ -19,7 +19,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "ela criou um bando de guerreiros,então construiram um navio,partindo em busca de aventuras para contar para as proximas gerações, navegando por mares tempestuosos,enfrentando monstros e deuses ao além do horizonte. Ao chegar em terras desconhecidas, os guerreiros enfrentaram inúmeros desafios e batalhas, lutaram contra inimigos, estabeleceram alianças com ?   ",
+        enunciado: "ela criou um bando de guerreiros,então construiram um navio partindo em busca de aventuras para contar para as proximas gerações, navegando por mares tempestuosos enfrentando monstros e deuses ao além do horizonte, e ao chegar em terras desconhecidas, os guerreiros enfrentaram inúmeros desafios e batalhas, lutaram contra inimigos, estabeleceram alianças com ?   ",
         alternativas: [
             {
                 texto: "não estabelecer nenhuma aliança",
