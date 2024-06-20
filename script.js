@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "reza a lenda que muito tempo atrás, uma viking chamada s/n era a mais forte dentre qualquer homem de sua tribo,treinando 24h por dia todos os dias ,será que ela vai continuar treinando?  ",
+        enunciado: "reza a lenda que muito tempo atrás, uma viking chamada s/n era a mais forte dentre qualquer homem de sua tribo,treinando 24h por dia todos os dias ,sonhando conquistar terras e mares,será que ela vai continuar treinando?  ",
         alternativas: [
             {
                 texto: "vocẽ acha importante a s/n continuar treinando",
@@ -19,15 +19,15 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "",
+        enunciado: "ela criou um bando de guerreiros,então construiram um navio,partindo em busca de aventuras para contar para as proximas gerações, navegando por mares tempestuosos,enfrentando monstros e deuses ao além do horizonte. Ao chegar em terras desconhecidas, os guerreiros enfrentaram inúmeros desafios e batalhas, lutaram contra inimigos, estabeleceram alianças com ?   ",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                texto: "não estabelecer nenhuma aliança",
+                afirmacao: "ficando com seu bando"
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                texto: "estabeleçer uma aliança",
+                afirmacao: "podendo ajudar no futuro"
             }
         ]
     },
@@ -101,6 +101,7 @@ function respostaSelecionada(opcaoSelecionada) {
     const afirmacoes = opcaoSelecionada.afirmacao;
     historiaFinal += afirmacoes + " ";
     atual++;
+    {
     mostraPergunta();
 }
 
