@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "reza a lenda que muito tempo atrás, uma viking chamada s/n era a mais forte dentre qualquer homem de sua tribo,treinando 24h por dia todos os dias ,sonhando conquistar terras e mares,será que ela vai continuar treinando?  ",
+        enunciado: "reza a lenda que muito tempo atrás, uma viking chamada s/n era a mais forte e habilidosa dentre sua tribo,treinando todos os dias sonhando em conquistar terras e mares,será que ela vai conquistar seus sonhos? ",
         alternativas: [
             {
                 texto: "vocẽ acha importante a s/n continuar treinando",
