@@ -32,7 +32,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "h",
+        enunciado: "A s/n acabou se tornando uma lider forte e companheira ajudando e cuidando de seus guerreiros de forma justa e persistente, e durante sua vida precisou fazer escolhas dificeis que testaram sua lealdade ",
         alternativas: [
             {
                 texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
